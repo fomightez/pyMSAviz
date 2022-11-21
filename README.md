@@ -1,5 +1,5 @@
 # pyMSAviz
-
+[![Binder](https://mybinder.org/badge_logo.svg)]((https://mybinder.org/v2/gh/moshi4/pyMSAviz/HEAD?labpath=example%2Fapi_example_run.ipynb)
 ![Python3](https://img.shields.io/badge/Language-Python3-steelblue)
 ![OS](https://img.shields.io/badge/OS-_Windows_|_Mac_|_Linux-steelblue)
 ![License](https://img.shields.io/badge/License-MIT-steelblue)
